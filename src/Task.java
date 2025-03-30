@@ -7,7 +7,7 @@
 
 public class Task implements Priority{
 	
-	private String taskName;
+    private String taskName;
     private int priority;
     
     /**
